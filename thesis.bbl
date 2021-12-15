@@ -1,0 +1,310 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{wong1994introduction}
+C.~Wong, {\em {Introduction to High-energy Heavy-ion Collisions}}.
+\newblock Introduction to High-energy Heavy-ion Collisions. World Scientific,
+  1994.
+\newblock \url{https://books.google.co.kr/books?id=Fnxvrdj2NOQC}.
+
+\bibitem{wikipedia_2021}
+``Quark–gluon plasma'', Nov, 2021.
+\newblock \url{https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma}.
+
+\bibitem{Reidt:2151986}
+F.~Reidt, ``{Studies for the ALICE Inner Tracking System Upgrade}'', Feb, 2016.
+\newblock \url{https://cds.cern.ch/record/2151986}. Presented 28 Apr 2016.
+
+\bibitem{Chatrchyan:2011pw}
+{\bfseries CMS} Collaboration, S.~Chatrchyan {\em et~al.}, ``{Measurement of
+  the ${\rm B^0}$ production cross section in pp collisions at $\sqrt{s}=7$
+  TeV}'', \href{http://dx.doi.org/10.1103/PhysRevLett.106.252001}{{\em Phys.
+  Rev. Lett.} {\bfseries 106} (2011) 252001},
+  \href{http://arxiv.org/abs/1104.2892}{{\ttfamily arXiv:1104.2892 [hep-ex]}}.
+
+\bibitem{Chatrchyan:2011vh}
+{\bfseries CMS} Collaboration, S.~Chatrchyan {\em et~al.}, ``{Measurement of
+  the Strange B Meson Production Cross Section with J/$\psi$ $\phi$ Decays in
+  pp collisions at $\sqrt{s}=7$ TeV}'',
+  \href{http://dx.doi.org/10.1103/PhysRevD.84.052008}{{\em Phys. Rev. D}
+  {\bfseries 84} (2011) 052008},
+  \href{http://arxiv.org/abs/1106.4048}{{\ttfamily arXiv:1106.4048 [hep-ex]}}.
+
+\bibitem{Collins:1985gm}
+J.~C. Collins, D.~E. Soper, and G.~F. Sterman, ``{Heavy Particle Production in
+  High-Energy Hadron Collisions}'',
+  \href{http://dx.doi.org/10.1016/0550-3213(86)90026-X}{{\em Nucl. Phys. B}
+  {\bfseries 263} (1986) 37}.
+
+\bibitem{Acharya:2019mgn}
+{\bfseries ALICE} Collaboration, S.~Acharya {\em et~al.}, ``{Measurement of
+  ${{\mathrm{D}}^0}$ , ${{\mathrm{D}}^+}$ , ${{\mathrm{D}}^{*+}}$ and
+  ${{\mathrm{D}}^+_{\mathrm{s}}}$ production in pp collisions at
+  ${\sqrt{{\textit{s}}}~=~5.02~{\text {TeV}}}$ with ALICE}'',
+  \href{http://dx.doi.org/10.1140/epjc/s10052-019-6873-6}{{\em Eur. Phys. J. C}
+  {\bfseries 79} no.~5, (2019) 388},
+  \href{http://arxiv.org/abs/1901.07979}{{\ttfamily arXiv:1901.07979
+  [nucl-ex]}}.
+
+\bibitem{nonpromptD}
+S.~Acharya, D.~Adamová, A.~Adler, J.~Adolfsson, G.~Aglieri~Rinella,
+  M.~Agnello, N.~Agrawal, Z.~Ahammed, S.~Ahmad, and et~al., ``{Measurement of
+  beauty and charm production in pp collisions at $\sqrt{s}$ = 5.02 TeV via
+  non-prompt and prompt D mesons}'',
+  \href{http://dx.doi.org/10.1007/jhep05(2021)220}{{\em JHEP} {\bfseries 2021}
+  no.~5, (May, 2021) }. \url{http://dx.doi.org/10.1007/JHEP05(2021)220}.
+
+\bibitem{Sirunyan:2017xss}
+{\bfseries CMS} Collaboration, A.~M. Sirunyan {\em et~al.}, ``{Nuclear
+  modification factor of D$^0$ mesons in Pb--Pb collisions at
+  $\sqrt{s_\mathrm{NN}} = 5.02$ TeV}'',
+  \href{http://dx.doi.org/10.1016/j.physletb.2018.05.074}{{\em Phys. Lett. B}
+  {\bfseries 782} (2018) 474--496},
+  \href{http://arxiv.org/abs/1708.04962}{{\ttfamily arXiv:1708.04962
+  [nucl-ex]}}.
+
+\bibitem{Kramer:2017gct}
+G.~Kramer and H.~Spiesberger, ``{Study of heavy meson production in p--Pb
+  collisions at $\sqrt{s_{\rm NN}}$ = 5.02 TeV in the general-mass
+  variable-flavour-number scheme}'',
+  \href{http://dx.doi.org/10.1016/j.nuclphysb.2017.10.016}{{\em Nucl. Phys. B}
+  {\bfseries 925} (2017) 415--430},
+  \href{http://arxiv.org/abs/1703.04754}{{\ttfamily arXiv:1703.04754
+  [hep-ph]}}.
+
+\bibitem{Helenius:2018uul}
+I.~Helenius and H.~Paukkunen, ``{Revisiting the D-meson hadroproduction in
+  general-mass variable flavour number scheme}'',
+  \href{http://dx.doi.org/10.1007/JHEP05(2018)196}{{\em JHEP} {\bfseries 05}
+  (2018) 196}, \href{http://arxiv.org/abs/1804.03557}{{\ttfamily
+  arXiv:1804.03557 [hep-ph]}}.
+
+\bibitem{Cacciari:1998it}
+M.~Cacciari, M.~Greco, and P.~Nason, ``{The \pt spectrum in heavy flavor
+  hadroproduction}'',
+  \href{http://dx.doi.org/10.1088/1126-6708/1998/05/007}{{\em JHEP} {\bfseries
+  05} (1998) 007},
+\href{http://arxiv.org/abs/hep-ph/9803400}{{\ttfamily arXiv:hep-ph/9803400
+  [hep-ph]}}.
+%%CITATION = HEP-PH/9803400;%%.
+
+\bibitem{Cacciari:2012ny}
+M.~Cacciari, S.~Frixione, N.~Houdeau, M.~L. Mangano, P.~Nason, and G.~Ridolfi,
+  ``{Theoretical predictions for charm and bottom production at the LHC}'',
+  \href{http://dx.doi.org/10.1007/JHEP10(2012)137}{{\em JHEP} {\bfseries 10}
+  (2012) 137}, \href{http://arxiv.org/abs/1205.6344}{{\ttfamily arXiv:1205.6344
+  [hep-ph]}}.
+
+\bibitem{Kniehl:2020szu}
+B.~Kniehl, G.~Kramer, I.~Schienbein, and H.~Spiesberger, ``{$\Lambda_c^{\pm}$
+  production in $pp$ collisions with a new fragmentation function}'',
+  \href{http://dx.doi.org/10.1103/PhysRevD.101.114021}{{\em Phys. Rev. D}
+  {\bfseries 101} no.~11, (2020) 114021},
+  \href{http://arxiv.org/abs/2004.04213}{{\ttfamily arXiv:2004.04213
+  [hep-ph]}}.
+
+\bibitem{Sirunyan:2019fnc}
+{\bfseries CMS} Collaboration, A.~M. Sirunyan {\em et~al.}, ``{Production of
+  $\Lambda_\mathrm{c}^+$ baryons in proton-proton and lead-lead collisions at
+  $\sqrt{s_\mathrm{NN}}=$ 5.02 TeV}'',
+  \href{http://dx.doi.org/10.1016/j.physletb.2020.135328}{{\em Phys. Lett. B}
+  {\bfseries 803} (2020) 135328},
+  \href{http://arxiv.org/abs/1906.03322}{{\ttfamily arXiv:1906.03322
+  [hep-ex]}}.
+
+\bibitem{Acharya:2017kfy}
+{\bfseries ALICE} Collaboration, S.~Acharya {\em et~al.}, ``{$\Lambda_{\rm
+  c}^+$ production in pp collisions at $\sqrt{s} = 7$ TeV and in p-Pb
+  collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV}'',
+  \href{http://dx.doi.org/10.1007/JHEP04(2018)108}{{\em JHEP} {\bfseries 04}
+  (2018) 108}, \href{http://arxiv.org/abs/1712.09581}{{\ttfamily
+  arXiv:1712.09581 [nucl-ex]}}.
+
+\bibitem{Acharya:2020uqi}
+{\bfseries ALICE} Collaboration, S.~Acharya {\em et~al.}, ``{$\rm
+  \Lambda_{c}^{+}$ production and baryon-to-meson ratios in pp and p-Pb
+  collisions at $\sqrt{s_\mathrm{NN}} = 5.02$ TeV at the LHC}'',
+  \href{http://arxiv.org/abs/2011.06078}{{\ttfamily arXiv:2011.06078
+  [nucl-ex]}}.
+
+\bibitem{Albrecht:1988an}
+{\bfseries ARGUS} Collaboration, H.~Albrecht {\em et~al.}, ``{Observation of
+  the Charmed Baryon $\Lambda_c$ in $e^+ e^-$ Annihilation at 10-{GeV}}'',
+  \href{http://dx.doi.org/10.1016/0370-2693(88)90896-9}{{\em Phys. Lett. B}
+  {\bfseries 207} (1988) 109--114}.
+
+\bibitem{Avery:1990bc}
+{\bfseries CLEO} Collaboration, P.~Avery {\em et~al.}, ``{Inclusive production
+  of the charmed baryon $\Lambda_{\rm c}$ from ${\rm e^+e^-}$ annihilations at
+  $\sqrt{s}$ = 10.55 GeV}'',
+  \href{http://dx.doi.org/10.1103/PhysRevD.43.3599}{{\em Phys. Rev. D}
+  {\bfseries 43} (1991) 3599--3610}.
+
+\bibitem{Gladilin:2014tba}
+L.~Gladilin, ``{Fragmentation fractions of c and b quarks into charmed hadrons
+  at LEP}'', \href{http://dx.doi.org/10.1140/epjc/s10052-014-3250-3}{{\em Eur.
+  Phys. J. C} {\bfseries 75} no.~1, (2015) 19},
+  \href{http://arxiv.org/abs/1404.3888}{{\ttfamily arXiv:1404.3888 [hep-ex]}}.
+
+\bibitem{Chekanov:2005mm}
+{\bfseries ZEUS} Collaboration, S.~Chekanov {\em et~al.}, ``{Measurement of
+  charm fragmentation ratios and fractions in photoproduction at HERA}'',
+  \href{http://dx.doi.org/10.1140/epjc/s2005-02397-3}{{\em Eur. Phys. J. C}
+  {\bfseries 44} (2005) 351--366},
+  \href{http://arxiv.org/abs/hep-ex/0508019}{{\ttfamily arXiv:hep-ex/0508019}}.
+
+\bibitem{Abramowicz:2013eja}
+{\bfseries ZEUS} Collaboration, H.~Abramowicz {\em et~al.}, ``{Measurement of
+  charm fragmentation fractions in photoproduction at HERA}'',
+  \href{http://dx.doi.org/10.1007/JHEP09(2013)058}{{\em JHEP} {\bfseries 09}
+  (2013) 058}, \href{http://arxiv.org/abs/1306.4862}{{\ttfamily arXiv:1306.4862
+  [hep-ex]}}.
+
+\bibitem{Acharya:2017lwf}
+{\bfseries ALICE} Collaboration, S.~Acharya {\em et~al.}, ``{First measurement
+  of $\Xi_{\rm c}^0$ production in pp collisions at $\mathbf{\sqrt{s}}$ = 7
+  TeV}'', \href{http://dx.doi.org/10.1016/j.physletb.2018.03.061}{{\em Phys.
+  Lett. B} {\bfseries 781} (2018) 8--19},
+  \href{http://arxiv.org/abs/1712.04242}{{\ttfamily arXiv:1712.04242
+  [hep-ex]}}.
+
+\bibitem{Frixione:2007nw}
+S.~Frixione, P.~Nason, and G.~Ridolfi, ``{A Positive-weight
+  next-to-leading-order Monte Carlo for heavy flavour hadroproduction}'',
+  \href{http://dx.doi.org/10.1088/1126-6708/2007/09/126}{{\em JHEP} {\bfseries
+  09} (2007) 126}, \href{http://arxiv.org/abs/0707.3088}{{\ttfamily
+  arXiv:0707.3088 [hep-ph]}}.
+
+\bibitem{Skands:2014pea}
+P.~Skands, S.~Carrazza, and J.~Rojo, ``{Tuning PYTHIA 8.1: the Monash 2013
+  Tune}'', \href{http://dx.doi.org/10.1140/epjc/s10052-014-3024-y}{{\em Eur.
+  Phys. J. C} {\bfseries 74} no.~8, (2014) 3024},
+  \href{http://arxiv.org/abs/1404.5630}{{\ttfamily arXiv:1404.5630 [hep-ph]}}.
+
+\bibitem{Bahr:2008pv}
+M.~Bahr {\em et~al.}, ``{Herwig++ Physics and Manual}'',
+  \href{http://dx.doi.org/10.1140/epjc/s10052-008-0798-9}{{\em Eur. Phys. J. C}
+  {\bfseries 58} (2008) 639--707},
+  \href{http://arxiv.org/abs/0803.0883}{{\ttfamily arXiv:0803.0883 [hep-ph]}}.
+
+\bibitem{Christiansen:2015yqa}
+J.~R. Christiansen and P.~Z. Skands, ``{String Formation Beyond Leading
+  Colour}'', \href{http://dx.doi.org/10.1007/JHEP08(2015)003}{{\em JHEP}
+  {\bfseries 08} (2015) 003}, \href{http://arxiv.org/abs/1505.01681}{{\ttfamily
+  arXiv:1505.01681 [hep-ph]}}.
+
+\bibitem{SigmacLambdac}
+{\bfseries ALICE} Collaboration, ``{Measurement of prompt D$^{0}$,
+  $\Lambda_{c}^{+}$, and $\Sigma_{c}^{0,++}$(2055) production in pp collisions
+  at $\sqrt{s}~=~13$ TeV}'',. \url{https://cds.cern.ch/record/2766124}.
+
+\bibitem{He:2019tik}
+M.~He and R.~Rapp, ``{Charm-Baryon Production in Proton-Proton Collisions}'',
+  \href{http://dx.doi.org/10.1016/j.physletb.2019.06.004}{{\em Phys. Lett. B}
+  {\bfseries 795} (2019) 117--121},
+  \href{http://arxiv.org/abs/1902.08889}{{\ttfamily arXiv:1902.08889
+  [nucl-th]}}.
+
+\bibitem{Zyla:2020zbs}
+{\bfseries Particle Data Group} Collaboration, P.~Zyla {\em et~al.}, ``{Review
+  of Particle Physics}'', \href{http://dx.doi.org/10.1093/ptep/ptaa104}{{\em
+  PTEP} {\bfseries 2020} no.~8, (2020) 083C01}.
+
+\bibitem{Ebert:2011kk}
+D.~Ebert, R.~Faustov, and V.~Galkin, ``{Spectroscopy and Regge trajectories of
+  heavy baryons in the relativistic quark-diquark picture}'',
+  \href{http://dx.doi.org/10.1103/PhysRevD.84.014025}{{\em Phys. Rev. D}
+  {\bfseries 84} (2011) 014025},
+  \href{http://arxiv.org/abs/1105.0583}{{\ttfamily arXiv:1105.0583 [hep-ph]}}.
+
+\bibitem{Briceno:2012wt}
+R.~A. Briceno, H.-W. Lin, and D.~R. Bolton, ``{Charmed-Baryon Spectroscopy from
+  Lattice QCD with N\_f=2+1+1 Flavors}'',
+  \href{http://dx.doi.org/10.1103/PhysRevD.86.094504}{{\em Phys. Rev. D}
+  {\bfseries 86} (2012) 094504},
+  \href{http://arxiv.org/abs/1207.3536}{{\ttfamily arXiv:1207.3536 [hep-lat]}}.
+
+\bibitem{Song:2018tpv}
+J.~Song, H.-h. Li, and F.-l. Shao, ``{New feature of low \pt charm quark
+  hadronization in pp collisions at $\sqrt{s}=7$ TeV}'',
+  \href{http://dx.doi.org/10.1140/epjc/s10052-018-5817-x}{{\em Eur. Phys. J. C}
+  {\bfseries 78} no.~4, (2018) 344},
+  \href{http://arxiv.org/abs/1801.09402}{{\ttfamily arXiv:1801.09402
+  [hep-ph]}}.
+
+\bibitem{Acharya:2017jgo}
+{\bfseries ALICE} Collaboration, S.~Acharya {\em et~al.}, ``{Measurement of
+  D-meson production at mid-rapidity in pp collisions at ${\sqrt{s}=7}$ TeV}'',
+  \href{http://dx.doi.org/10.1140/epjc/s10052-017-5090-4}{{\em Eur. Phys. J. C}
+  {\bfseries 77} no.~8, (2017) 550},
+  \href{http://arxiv.org/abs/1702.00766}{{\ttfamily arXiv:1702.00766
+  [hep-ex]}}.
+
+\bibitem{Alice_performance}
+{\bfseries ALICE} Collaboration, B.~Abelev {\em et~al.}, ``{Performance of the
+  ALICE Experiment at the CERN LHC}'',
+  \href{http://dx.doi.org/10.1142/S0217751X14300440}{{\em Int.J.Mod.Phys.}
+  {\bfseries A29} (2014) 1430044},
+\href{http://arxiv.org/abs/1402.4476}{{\ttfamily arXiv:1402.4476 [nucl-ex]}}.
+%%CITATION = ARXIV:1402.4476;%%.
+
+\bibitem{Aamodt:2008zz}
+{\bfseries ALICE} Collaboration, K.~Aamodt {\em et~al.}, ``{The ALICE
+  experiment at the CERN LHC}'',
+  \href{http://dx.doi.org/10.1088/1748-0221/3/08/S08002}{{\em JINST} {\bfseries
+  3} (2008) S08002}.
+
+\bibitem{alicecollaboration2021measurement}
+{\bfseries ALICE} Collaboration, ``{Measurement of the cross sections of
+  $\Xi^0_{\rm c}$ and $\Xi^+_{\rm c}$ baryons and branching-fraction ratio
+  BR($\Xi^0_{\rm c} \rightarrow \Xi^-{\rm e}^+\nu_{\rm e}$)/BR($\Xi^0_{\rm c}
+  \rightarrow \Xi^-\pi^+$) in pp collisions at$ \sqrt {s} = 13\;{\text{TeV} }
+  $}'', \href{http://arxiv.org/abs/2105.05187}{{\ttfamily arXiv:2105.05187
+  [nucl-ex]}}.
+
+\bibitem{Andronic:2009sv}
+A.~Andronic, F.~Beutler, P.~Braun-Munzinger, K.~Redlich, and J.~Stachel,
+  ``{Statistical hadronization of heavy flavor quarks in elementary collisions:
+  Successes and failures}'',
+  \href{http://dx.doi.org/10.1016/j.physletb.2009.06.051}{{\em Phys. Lett. B}
+  {\bfseries 678} (2009) 350--354},
+  \href{http://arxiv.org/abs/0904.1368}{{\ttfamily arXiv:0904.1368 [hep-ph]}}.
+
+\bibitem{MINISSALE2021136622}
+V.~Minissale, S.~Plumari, and V.~Greco, ``Charm hadrons in pp collisions at lhc
+  energy within a coalescence plus fragmentation approach'',
+  \href{http://dx.doi.org/https://doi.org/10.1016/j.physletb.2021.136622}{{\em
+  Phys. Lett. B} {\bfseries 821} (2021) 136622}.
+  \url{https://www.sciencedirect.com/science/article/pii/S0370269321005621}.
+
+\bibitem{Hsiao_2020}
+Y.-K. Hsiao, L.~Yang, C.-C. Lih, and S.-Y. Tsai, ``{Charmed $\Omega _{c}$ weak
+  decays into $\Omega $ in the light-front quark model}'',
+  \href{http://dx.doi.org/10.1140/epjc/s10052-020-08619-y}{{\em Eur. Phys. J.
+  C} {\bfseries 80} no.~11, ({Nov}, {2020}) }.
+  \url{http://dx.doi.org/10.1140/epjc/s10052-020-08619-y}.
+
+\bibitem{Abelev_2012}
+B.~Abelev, J.~Adam, D.~Adamová, A.~M. Adare, M.~M. Aggarwal,
+  G.~Aglieri~Rinella, A.~G. Agocs, A.~Agostinelli, S.~Aguilar~Salazar, and
+  et~al., ``{Measurement of charm production at central rapidity in
+  proton-proton collisions at $ \sqrt {s} = 2.76\;{\text{TeV} } $}'',
+  \href{http://dx.doi.org/10.1007/jhep07(2012)191}{{\em JHEP} {\bfseries 2012}
+  no.~7, (Jul, 2012) }. \url{http://dx.doi.org/10.1007/JHEP07(2012)191}.
+
+\bibitem{Acharya_2017}
+{\bfseries ALICE} Collaboration, S.~Acharya, D.~Adamová, M.~M. Aggarwal,
+  G.~Aglieri~Rinella, M.~Agnello, N.~Agrawal, Z.~Ahammed, N.~Ahmad, S.~U. Ahn,
+  and et~al., ``{Measurement of D-meson production at mid-rapidity in pp
+  collisions at ${\sqrt{s}=7 TeV}$}'',
+  \href{http://dx.doi.org/10.1140/epjc/s10052-017-5090-4}{{\em Eur. Phys. J. C}
+  {\bfseries 77} no.~8, (Aug, 2017) }.
+  \url{http://dx.doi.org/10.1140/epjc/s10052-017-5090-4}.
+
+\bibitem{PhysRevLett.118.122001}
+D.~d'Enterria and A.~M. Snigirev, ``Triple parton scatterings in high-energy
+  proton-proton collisions'',
+  \href{http://dx.doi.org/10.1103/PhysRevLett.118.122001}{{\em Phys. Rev.
+  Lett.} {\bfseries 118} (Mar, 2017) 122001}.
+  \url{https://link.aps.org/doi/10.1103/PhysRevLett.118.122001}.
+
+\end{thebibliography}\endgroup

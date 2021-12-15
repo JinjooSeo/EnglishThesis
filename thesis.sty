@@ -1,0 +1,80 @@
+\ProvidesPackage{thesis}[2023/02/12 thesis]
+
+\usepackage{newcent}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[b5paper]{geometry}
+\geometry{verbose,tmargin=32mm,bmargin=32mm,lmargin=24mm,rmargin=24mm,headheight=1.5in,headsep=0.3in,footskip=0.8in}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{verbatim}
+\usepackage{pifont}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{setspace}
+\usepackage{indentfirst}
+\usepackage{pdfpages}
+\usepackage{subfigure}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{units}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+\usepackage{mathtools}
+\usepackage{chngpage}
+\usepackage{adjustbox}
+
+\newcommand{\pt}{$\ensuremath{p}_{\mathrm{T}}$}
+\newcommand{\Lc}{$\Lambda_{\mathrm{c}}^{+}$}
+\newcommand{\Dz}{\ensuremath{D}^{0}}
+\newcommand{\Dp}{\ensuremath{D}^{+}}
+\newcommand{\Dsp}{\ensuremath{D}^{+}_{\mathrm{s}}}
+\newcommand{\GeVc}{\mathrm{GeV}/\ensuremath{c}}
+\newcommand{\MeVc}{\mathrm{MeV}/\ensuremath{c}}
+\newcommand{\raa}{\ensuremath{R}_{\mathrm{AA}}}
+\newcommand{\rcp}{\ensuremath{R}_{\mathrm{CP}}}
+\newcommand{\sNN}{\sqrt{\ensuremath{s}_{\mathrm{NN}}}}
+
+\newcommand{\XicZero}{$\rm \Xi^0_{c}$ }
+\newcommand{\XicPlus}{$\Xi^+_{\rm c}$}
+\newcommand{\pT}{$p_{\rm T}$ }
+\newcommand{\tevf}{$\sqrt{s}$ = 5.02\,TeV }
+\newcommand{\tevt}{$\sqrt{s}$ = 13\,TeV }
+\newcommand{\Xicz}{$\rm \Xi^0_{\rm c}$ }
+\newcommand{\Xicp}{$\rm \Xi^+_{\rm c}$ }
+\newcommand{\Xiczp}{$\rm \Xi^{0,+}_{\rm c}$ }
+\newcommand{\Sc}{$\rm \Sigma^{0,++}_{\rm c}$ }
+\newcommand{\Oc}{$\rm \Omega^{0}_{\rm c}$ }
+\newcommand{\ee}{$\mathrm{e^+e^-}$ }
+\newcommand{\Do}{$\rm D^{0}$ }
+\newcommand{\RpPb}{$R_\mathrm{pPb}\,$}
+\newcommand{\BR}{$\mathrm{BR}$}
+
+
+\doublespacing
+
+\makeatletter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+\numberwithin{equation}{chapter}
+\numberwithin{figure}{chapter}
+\numberwithin{table}{chapter}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+\usepackage{lettrine}
+\usepackage{hyperref}
+\usepackage{kotex}
+
+\AtBeginDocument{
+  \def\labelitemii{\ding{71}}
+  \def\labelitemiii{\ding{111}}
+  \def\labelitemiv{\(\vartriangleright\)}
+}
+
+\makeatother
+
+
+
+
+

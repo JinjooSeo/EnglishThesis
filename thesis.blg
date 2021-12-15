@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: utphys.bst.bst
+Database file #1: bibliography.bib
+Warning--entry type for "Reidt:2151986" isn't style-file defined
+--line 5190 of file bibliography.bib
+Warning--empty pages in nonpromptD
+Warning--empty author in SigmacLambdac
+Warning--empty author in alicecollaboration2021measurement
+Warning--empty pages in Hsiao_2020
+Warning--empty pages in Abelev_2012
+Warning--empty pages in Acharya_2017
+You've used 43 entries,
+            2397 wiz_defined-function locations,
+            926 strings with 13407 characters,
+and the built_in function-call counts, 12975 in all, are:
+= -- 1268
+> -- 440
+< -- 0
++ -- 163
+- -- 120
+* -- 1412
+:= -- 1525
+add.period$ -- 58
+call.type$ -- 43
+change.case$ -- 56
+chr.to.int$ -- 0
+cite$ -- 49
+duplicate$ -- 700
+empty$ -- 1259
+format.name$ -- 120
+if$ -- 3329
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 159
+newline$ -- 140
+num.names$ -- 40
+pop$ -- 197
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 500
+stack$ -- 0
+substring$ -- 493
+swap$ -- 355
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 91
+width$ -- 45
+write$ -- 363
+(There were 7 warnings)
